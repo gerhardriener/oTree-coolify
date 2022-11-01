@@ -10,5 +10,5 @@ COPY . .
 RUN pip3 install --no-cache-dir -r requirements.txt
 
 # Run oTree prodserver command
-CMD [ "otree", "prodserver" , "3001"]   
+CMD [ "otree", "prodserver" , "3002"]   
 
